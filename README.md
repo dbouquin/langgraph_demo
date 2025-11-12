@@ -75,7 +75,7 @@ This pattern works for many scenarios beyond document compliance:
 
 - `policy_compliance_checker.ipynb` - Main tutorial notebook
 - `README.md` - This file
-- `sample_documents/` - Use the files in the repo or they will be created automatically when you run the notebook
+- `sample_documents/` - Example files that are created automatically when you run the notebook
 
 ## Learn More
 
