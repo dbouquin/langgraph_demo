@@ -1,7 +1,8 @@
 # Document Policy Compliance Checker with Human-in-the-Loop
 
+<!-- 
 [![Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Anaconda-Labs/langgraph_demo/main/.github/badges/status.json?1787562840&cacheSeconds=300)](https://github.com/Anaconda-Labs/langgraph_demo)
-
+-->
 
 **Status:** Active  
 **Owner:** Daina Bouquin ([@dbouquin](https://github.com/dbouquin))  
